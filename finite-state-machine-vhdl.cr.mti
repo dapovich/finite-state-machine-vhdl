@@ -1,0 +1,19 @@
+C:/Studing/Group-project-education/VHD_Practice/vhdl/state-machine/finite_state_machine_tb.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Studing/Group-project-education/VHD_Practice/vhdl/state-machine/finite_state_machine_tb.vhd
+Model Technology ModelSim ALTERA vcom 10.3c Compiler 2014.09 Sep 20 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity finite_state_machine_tb
+-- Compiling architecture sim of finite_state_machine_tb
+
+} {} {}} C:/Studing/Group-project-education/VHD_Practice/vhdl/state-machine/finite_state_machine.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Studing/Group-project-education/VHD_Practice/vhdl/state-machine/finite_state_machine.vhd
+Model Technology ModelSim ALTERA vcom 10.3c Compiler 2014.09 Sep 20 2014
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity finite_state_machine
+-- Compiling architecture RTL of finite_state_machine
+
+} {} {}}

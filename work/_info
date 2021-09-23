@@ -1,0 +1,92 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/altera/14.1
+Efinite_state_machine
+Z0 w1632369662
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z4 dC:/Studing/Group-project-education/VHD_Practice/vhdl/state-machine
+Z5 8C:/Studing/Group-project-education/VHD_Practice/vhdl/state-machine/finite_state_machine.vhd
+Z6 FC:/Studing/Group-project-education/VHD_Practice/vhdl/state-machine/finite_state_machine.vhd
+l0
+L5
+VWoaHRe5V=[GDhKQS3BEHY3
+!s100 2GQkgn<Vi8hY?<H^_GDS?3
+Z7 OV;C;10.3c;59
+32
+Z8 !s110 1632370251
+!i10b 1
+Z9 !s108 1632370250.905000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Studing/Group-project-education/VHD_Practice/vhdl/state-machine/finite_state_machine.vhd|
+Z11 !s107 C:/Studing/Group-project-education/VHD_Practice/vhdl/state-machine/finite_state_machine.vhd|
+!i113 1
+Z12 o-work work -2002 -explicit
+Z13 tExplicit 1
+Artl
+R1
+R2
+R3
+DEx4 work 20 finite_state_machine 0 22 WoaHRe5V=[GDhKQS3BEHY3
+l21
+L13
+VYCgChNg]K@oUaQ:<]b3o62
+!s100 b5MK]9me;SSdeEMHRS:011
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+R13
+Efinite_state_machine_tb
+Z14 w1632369624
+R1
+R2
+R3
+R4
+Z15 8C:/Studing/Group-project-education/VHD_Practice/vhdl/state-machine/finite_state_machine_tb.vhd
+Z16 FC:/Studing/Group-project-education/VHD_Practice/vhdl/state-machine/finite_state_machine_tb.vhd
+l0
+L5
+V>`YZkNeg6mCc2XikU^?:a2
+!s100 `aTS2ffQoSbCCCG`BdBW@0
+R7
+32
+Z17 !s110 1632370252
+!i10b 1
+Z18 !s108 1632370252.065000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Studing/Group-project-education/VHD_Practice/vhdl/state-machine/finite_state_machine_tb.vhd|
+Z20 !s107 C:/Studing/Group-project-education/VHD_Practice/vhdl/state-machine/finite_state_machine_tb.vhd|
+!i113 1
+R12
+R13
+Asim
+R1
+R2
+R3
+DEx4 work 23 finite_state_machine_tb 0 22 >`YZkNeg6mCc2XikU^?:a2
+l26
+L8
+VLX@In`Dm[1OSX0MczgfG]3
+!s100 OO1zH;KP1]D11bdkHZFL:0
+R7
+32
+R17
+!i10b 1
+R18
+R19
+R20
+!i113 1
+R12
+R13
